@@ -1,0 +1,8 @@
+.Card img {
+    width: 100%;
+}
+
+.Card p {
+    margin-top: 5px;
+    font-weight: bold;
+}
